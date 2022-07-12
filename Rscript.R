@@ -32,3 +32,4 @@ ggplot(sci_data, aes(x = FinalGradeCEMS)) +
 
 add_numbers(3, 3)
 add_numbers(3, 3)
+add_numbers(3, 3)
