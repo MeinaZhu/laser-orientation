@@ -31,3 +31,4 @@ ggplot(sci_data, aes(x = FinalGradeCEMS)) +
   geom_histogram(fill = "blue")
 
 add_numbers(3, 3)
+add_numbers(3, 3)
